@@ -1,0 +1,19 @@
+.icons{
+background-color:#3d97ff;
+margin-top: 50px;
+border-radius: 0px!important;
+}
+
+.my-icon{
+font-size: 50px;
+}
+.navbar{
+border-radius:0px;
+margin-bottom:0px;
+}
+
+h1,h2{
+  font-family: 'Libre Baskerville', serif;
+  font-size: 50px;
+  color: #337ab7;
+}
